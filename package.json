@@ -1,6 +1,6 @@
 {
   "name": "gauge-chart",
-  "version": "0.0.0",
+  "version": "1.0.1",
   "description": "**A library for creating nice and flexible gauge charts.**",
   "main": "dist/commonjs-bundle.js",
   "author": "",
@@ -39,7 +39,7 @@
     "@typescript-eslint/eslint-plugin": "^5.31.0",
     "@typescript-eslint/parser": "^5.31.0",
     "concurrently": "^7.3.0",
-    "esbuild": "^0.14.51",
+    "esbuild": "^0.25.10",
     "eslint": "^8.20.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-config-standard": "^17.0.0",
@@ -53,6 +53,6 @@
     "prettier": "2.7.1",
     "ts-jest": "^28.0.7",
     "typescript": "^4.7.4",
-    "vite": "^3.0.4"
+    "vite": "^7.1.9"
   }
 }
